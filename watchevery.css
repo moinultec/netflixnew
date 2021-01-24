@@ -1,0 +1,55 @@
+.watchevery{
+    
+    width: 100%;
+    height: 450px;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    border-bottom: 8px solid #222;
+}
+.entxt2{
+
+   padding-top: 100px;
+   padding-left: 290px;
+   width: 40%;
+   margin-left: 100px;
+   
+    color: white;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;    
+}
+.en-title2{
+
+    font-size: 3.125rem;
+}
+.en-sub-title2{
+
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight: normal;
+}
+
+
+
+  
+
+.en-video2{
+
+
+position: absolute;
+width: 100%;
+text-align: center;
+} 
+.img2{
+    height: 397px; 
+    width: 530px;  
+    bottom: -96px;
+    position: absolute;
+    right: 381px;   
+}
+.env2{
+    
+  height: 197px; 
+  width: 349px;
+  bottom: 61px;
+  right: 472px;
+  position: absolute;
+}
+

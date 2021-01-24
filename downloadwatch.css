@@ -1,0 +1,91 @@
+.downloadwatch{
+    
+    width: 100%;
+    height: 450px;
+    position: relative;
+   background-color: black;
+   border-bottom: 8px solid #222;
+}
+.entxt1{
+
+    
+   padding-top: 100px;
+   padding-right: 220px;
+   width: 40%;
+   margin-left: 100px;
+   float:right;
+   
+    color: white;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;    
+}
+.en-title1{
+
+    font-size: 3.125rem;
+}
+.en-sub-title1{
+
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight: normal;
+}
+
+
+
+  
+
+.en-video1{
+
+
+position: absolute;
+width: 100%;
+text-align: center;
+} 
+.img1{
+    height: 397px; 
+    width: 530px;  
+    bottom: -397px;
+    position: absolute;
+    right: 1070px;   
+}
+
+.our-story-card-animation{
+    width: 316px;
+    height: 94px;
+    padding: .5em .75em;
+    position: absolute;
+    left: 21%;
+    bottom: 19%;
+    background: #000;
+    display: flex;
+    align-items: center;
+    padding: .25em .65em;
+    border: 2px solid rgba(255,255,255,.25);
+    box-shadow: 0 0 2em 0 #000;
+    border-radius: .75em;
+}
+   
+
+
+.our-story-card-animation-image{
+
+    height: 5rem;
+}
+.img-2{
+
+    width: 57px;
+    height: 80px;
+}
+.text-0{
+
+padding-left: 20px;
+
+}
+.text-1{
+
+    padding-left: 20px;
+    color: #0071eb;
+    font-size: .9em;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+
+}
+
+

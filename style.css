@@ -1,0 +1,18 @@
+@import "/headdiv.css" ;
+@import"/enjoytv.css";
+@import"/downloadwatch.css";
+@import"/watchevery.css";
+@import"/frequently.css";
+.main-body{
+    background-color:#222;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    
+    
+    color:white;
+    
+}
